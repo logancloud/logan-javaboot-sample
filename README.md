@@ -1,0 +1,1 @@
+# Logan JavaBoot Sample [![Build Status](https://travis-ci.org/logancloud/logan-javaboot-sample.svg?branch=develop)](https://travis-ci.org/logancloud/logan-javaboot-sample) 
