@@ -24,4 +24,7 @@ script:
   - ./scripts/travis-push-docker-image.sh
 
 after_script:
-  -   docker logout
+  - docker logout
+
+notifications:
+  email: false
